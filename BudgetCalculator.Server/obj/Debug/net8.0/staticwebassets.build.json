@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "FJDxkDe7VNzKvAcEcwiMpqxpt/EITSIDJD2yz8cAZqY=",
+  "Source": "BudgetCalculator.Server",
+  "BasePath": "_content/BudgetCalculator.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\danny\\OneDrive\\Documents\\GitHub\\BudgetCalculator\\budgetcalculator.client\\budgetcalculator.client.esproj",
+      "Version": 2,
+      "Source": "budgetcalculator.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

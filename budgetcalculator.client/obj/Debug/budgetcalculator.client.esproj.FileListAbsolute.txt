@@ -1,0 +1,1 @@
+C:\Users\danny\OneDrive\Documents\GitHub\BudgetCalculator\budgetcalculator.client\obj\Debug\budgetcalculator.client.esproj.CoreCompileInputs.cache
